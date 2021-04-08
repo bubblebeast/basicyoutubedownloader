@@ -1,7 +1,6 @@
 from pytube import YouTube
 from tkinter import filedialog
 from tkinter import *
-from tkinter import constants
 import tkinter as tk
 
 def selectDocLocation():
